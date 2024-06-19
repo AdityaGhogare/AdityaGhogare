@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdityaGhogare
 - 👀 I’m interested in fullstack devlopement 
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning BSC COMPUTER SCIENCE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me..mobile no:8208386842
+- 📫 How to reach me adityaghogare62@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
